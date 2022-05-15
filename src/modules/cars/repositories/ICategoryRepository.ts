@@ -1,5 +1,5 @@
 import { Category } from "../model/Category";
-import { ICreateCategoryDTO } from "./PostgresCategoriesRepository";
+import { ICreateCategoryDTO } from "./implementations/CategoriesRepository";
 
 
 interface ICategoryRepository {
